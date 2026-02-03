@@ -3,3 +3,6 @@ core/__pycache__/
 kernel/__pycache__/
 tests/__pycache__/
 *.pyc
+AGENTS.md
+CLAUDE.md
+WARP.md
