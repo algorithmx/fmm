@@ -227,18 +227,20 @@ Where:
 
 ## References
 
-This implementation is based on academic research covering:
+This implementation is based on PhD thesis "Symmetries and Fast Multipole Metho ds for Oscillatory Kernels" (by Dr. Igor Chollet) covering:
 - Chapter 2: Standard FMM with kernel-specific expansions
 - Chapter 3: High-frequency FMM for Helmholtz
 - Chapter 4: Kernel-independent FMM with ACA/SVD compression
 
 ## License
 
-[Your License Here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
 Contributions are welcome! Please ensure:
+0. Read the PhD thesis to ensure you know what you are doing
 1. Code follows the existing style
 2. Tests pass for new functionality
 3. Documentation is updated accordingly
+4. Better use a coding agent rather than writing by hand
